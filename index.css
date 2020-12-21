@@ -4,12 +4,18 @@ body {
 	text-align: center;
 	margin: 0 auto;
 	padding: 30px;
+	background-color: #ffffff;
+}
+
+img {
+	width: 25vw;
+	height: 40vh;
 }
 
 h1 {
-	font-size: 40px;
+	font-size: 8vh;
 }
 
 p {
-	font-size: 26px;
+	font-size: 5vh;
 }
